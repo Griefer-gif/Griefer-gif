@@ -3,7 +3,8 @@
 - 🔭 Atualmente trabalhando como auxiliar de TI
 - 🌱 Cursando Análise e Desenvolvimento de Sistemas na PUCPR
 - 👯 Estou em busca de avançar meus conhecimentos contribuindo para projetos
-- 📫 Contato: renato1diana@gmail.com 
+- 📫 Contato: renato1diana@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/renato-de-almeida-diana-720647210/
 
 <!--
 **Griefer-gif/Griefer-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
