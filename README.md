@@ -1,4 +1,9 @@
-### Hi there 👋
+### Olá, bem vindo ao meu pefil do GitHub
+
+- 🔭 Atualmente trabalhando como auxiliar de TI
+- 🌱 Cursando Análise e Desenvolvimento de Sistemas na PUCPR
+- 👯 Estou em busca de avançar meus conhecimentos contribuindo para projetos
+- 📫 Contato: renato1diana@gmail.com 
 
 <!--
 **Griefer-gif/Griefer-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
