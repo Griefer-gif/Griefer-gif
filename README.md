@@ -1,6 +1,6 @@
 ### Olá, bem vindo ao meu pefil do GitHub
 
-- 🔭 Atualmente trabalhando como auxiliar de TI
+- 🔭 Atualmente estou procurando emprego na área de tecnologia!
 - 🌱 Cursando Análise e Desenvolvimento de Sistemas na PUCPR
 - 👯 Estou em busca de avançar meus conhecimentos contribuindo para projetos
 - 📫 Contato: renato1diana@gmail.com
